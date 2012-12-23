@@ -1,0 +1,4 @@
+.s3ignore
+.gitignore
+sync
+config
