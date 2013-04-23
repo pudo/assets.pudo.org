@@ -1,0 +1,8 @@
+@font-face { font-family: SpiegelHeadlineWeb;   
+       src: url('SpiegelHeadline07.eot?') format('eot'), url('SpiegelHeadline07.woff') format('woff'), url('SpiegelHeadline07.ttf') format('truetype'); }
+@font-face { font-family: SpiegelSansWeb; 
+       font-weight: normal;         
+       src:   url('Spiegel-Regular.eot?') format('eot'), url('Spiegel-Regular.woff') format('woff'), url('Spiegel-Regular.ttf') format('truetype'); }
+@font-face { font-family: SpiegelSansWeb; 
+       font-weight: bold;         
+       src:   url('Spiegel-Bold.eot?') format('eot'), url('Spiegel-Bold.woff') format('woff'), url('Spiegel-Bold.ttf') format('truetype'); }
